@@ -1,5 +1,5 @@
 {
-  "homepage": "https://jahnavi8009/github.io/event-management",
+  "homepage": "https://jahnavi8009/github.io/mern-stack",
   "name": "frontend",
   "private": true,
   "version": "0.0.0",
@@ -20,6 +20,7 @@
     "react-hot-toast": "^2.4.1",
     "react-icons": "^5.3.0",
     "react-router-dom": "^6.27.0",
+    "react-scripts": "^3.0.1",
     "react-scroll": "^1.9.0"
   },
   "devDependencies": {
